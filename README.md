@@ -1,3 +1,3 @@
 # Ex4-C
 
-the 4th assigment in C.
+the 4th assignment in C.
